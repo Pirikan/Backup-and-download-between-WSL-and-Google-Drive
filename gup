@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rsync -avh -v ~/your_directry_path/ /mnt/g/my-drive/your_directry_path/
+
+#Differential backup from WSL to Google Drive. 
+#Optional: Run-time detail view.
+#Please change "your_directory_path" to your directory path.
