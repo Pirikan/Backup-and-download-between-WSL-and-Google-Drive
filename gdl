@@ -5,3 +5,4 @@ rsync -avh -v /mnt/g/my-drive/your_directry_path/ ~/your_directry_path
 #Differential download from Google Drive to WSL.
 #Optional: Run-time detail view.
 #Please change "your_directory_path" to your directory path.
+#Please change "my-drive" to the notation of your usual language.
